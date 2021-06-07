@@ -1,0 +1,5 @@
+# Alzheimers-Detection
+
+Dataset: https://www.kaggle.com/tourist55/alzheimers-dataset-4-class-of-images
+
+
